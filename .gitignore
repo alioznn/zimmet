@@ -1,0 +1,26 @@
+# UI (Node/React)
+node_modules/
+dist/
+build/
+.expo/
+*.log
+.env
+.env.*
+
+# .NET / API
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.*.json
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Büyük/geçici
+*.zip
+*.7z
+*.rar
