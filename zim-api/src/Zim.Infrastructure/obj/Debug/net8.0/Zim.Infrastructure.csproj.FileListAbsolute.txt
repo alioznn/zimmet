@@ -1,0 +1,17 @@
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Infrastructure.deps.json
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Infrastructure.runtimeconfig.json
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Infrastructure.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Infrastructure.pdb
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Domain.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\bin\Debug\net8.0\Zim.Domain.pdb
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.AssemblyInfo.cs
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infr.E5D54079.Up2Date
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\refint\Zim.Infrastructure.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.pdb
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\Zim.Infrastructure.genruntimeconfig.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Infrastructure\obj\Debug\net8.0\ref\Zim.Infrastructure.dll

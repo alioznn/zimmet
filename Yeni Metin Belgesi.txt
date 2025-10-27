@@ -1,0 +1,130 @@
+Harika soru! Sabah kodu çalıştırmak için adım adım rehber:
+
+## 🚀 **Sabah Kodu Çalıştırma Rehberi**
+
+### 1️⃣ **Backend'i Başlatma**
+
+**Terminal 1 açın:**
+```bash
+# Proje dizinine gidin
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Api"
+
+# Backend'i başlatın
+dotnet run
+```
+
+**✅ Başarılı olursa şunu göreceksiniz:**
+```
+Veritabanı başarıyla başlatıldı.
+Now listening on: http://localhost:5257
+```
+
+### 2️⃣ **Frontend'i Başlatma**
+
+**Terminal 2 açın (yeni terminal):**
+```bash
+# Frontend dizinine gidin
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-ui"
+
+# Frontend'i başlatın
+npm run dev
+```
+
+**✅ Başarılı olursa şunu göreceksiniz:**
+```
+▲ Next.js 15.5.4 (Turbopack)
+- Local:        http://localhost:3000
+- Network:      http://172.16.6.73:3000
+✓ Ready in 3.2s
+```
+
+### 3️⃣ **Uygulamayı Test Etme**
+
+**Tarayıcıda açın:**
+- **Ana Sayfa**: http://localhost:3000/
+- **Giriş Sayfası**: http://localhost:3000/login
+
+**Demo Hesap:**
+- **Kullanıcı Adı**: `admin`
+- **Şifre**: `admin123`
+
+## 📋 **Hızlı Başlatma Komutları**
+
+### **PowerShell Script Oluşturun:**
+
+**`start-backend.ps1` dosyası oluşturun:**
+```powershell
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Api"
+dotnet run
+```
+
+**`start-frontend.ps1` dosyası oluşturun:**
+```powershell
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-ui"
+npm run dev
+```
+
+**Kullanım:**
+1. `start-backend.ps1` dosyasına çift tıklayın
+2. `start-frontend.ps1` dosyasına çift tıklayın
+
+## 🔧 **Sorun Giderme**
+
+### **Backend Çalışmıyorsa:**
+```bash
+# Proje dizinine gidin
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Api"
+
+# Paketleri yeniden yükleyin
+dotnet restore
+
+# Veritabanını güncelleyin
+dotnet ef database update
+
+# Tekrar başlatın
+dotnet run
+```
+
+### **Frontend Çalışmıyorsa:**
+```bash
+# Frontend dizinine gidin
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-ui"
+
+# Node modules'ları yeniden yükleyin
+npm install
+
+# Tekrar başlatın
+npm run dev
+```
+
+## 📱 **Test Edilecek Sayfalar**
+
+1. **Dashboard**: http://localhost:3000/
+2. **Ürünler**: http://localhost:3000/items
+3. **Çalışanlar**: http://localhost:3000/employees
+4. **Zimmetler**: http://localhost:3000/assignments
+5. **Raporlar**: http://localhost:3000/reports
+
+## ⚡ **Hızlı Başlatma (2 Terminal)**
+
+**Terminal 1:**
+```bash
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Api" && dotnet run
+```
+
+**Terminal 2:**
+```bash
+cd "C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-ui" && npm run dev
+```
+
+## 🎯 **Başarı Kontrolü**
+
+**Backend çalışıyor mu?**
+- http://localhost:5257 adresine gidin
+- "ZIM-API OK - Zimmet Uygulaması API'si çalışıyor!" mesajını görmelisiniz
+
+**Frontend çalışıyor mu?**
+- http://localhost:3000 adresine gidin
+- Login sayfası açılmalı
+
+**Artık sabah sadece 2 terminal açıp 2 komut çalıştırarak uygulamayı başlatabilirsiniz!** 🚀

@@ -1,0 +1,11 @@
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\bin\Debug\net8.0\Zim.Domain.deps.json
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\bin\Debug\net8.0\Zim.Domain.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\bin\Debug\net8.0\Zim.Domain.pdb
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.AssemblyInfoInputs.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.AssemblyInfo.cs
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\refint\Zim.Domain.dll
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\Zim.Domain.pdb
+C:\Users\aligo\OneDrive\Masaüstü\depo zimmet\zim-api\src\Zim.Domain\obj\Debug\net8.0\ref\Zim.Domain.dll
